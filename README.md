@@ -16,3 +16,7 @@ $ ./test.make
 #\
 exec make $@ -f $0 -s
 ```
+
+## Reference
+
+- makefileの関数: <https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a>
